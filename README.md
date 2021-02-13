@@ -3,7 +3,9 @@ A creative and dependable front-end web developer with a great work ethic, and p
 Currently I have started a small design agency which provides small businesses with creative strategies and design collaterals that connects them with their ideal customers.
 
 Linkedin: https://linkedin.com/in/seokamk
+
 Behance: https://behance.com/seokamoshele
+
 Website: seokamoshele.me
 <!---
 JrDevGabe/JrDevGabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
