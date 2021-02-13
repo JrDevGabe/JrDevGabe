@@ -6,7 +6,7 @@ Linkedin: https://linkedin.com/in/seokamk
 
 Behance: https://behance.com/seokakabelo
 
-Website: seokamoshele.me
+Website: https://seokamoshele.me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdevgabe)](https://github.com/anuraghazra/github-readme-stats)
 <!---
